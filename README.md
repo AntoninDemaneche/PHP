@@ -1,5 +1,11 @@
 # Php - Antonin Demaneche B1B #
 
+TP 1 - Meteo :
+
+Ce site permet de :
+- Obtenir la méteo de Bordeaux et Paris
+
+TP 2 - Fortnite ( Vesion Fan de Game Of Throne ) :
 
 Ce site permet de : 
 
