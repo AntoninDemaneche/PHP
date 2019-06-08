@@ -15,3 +15,9 @@ Ce site permet de :
 - Il est possible d'acceder au panel admin en remplacant "index.php" par "admin.php" dans la bare de recherche
 - Le panel admin permet de suprimer des lieux d'apparitions et nous donne la liste de tout les lieux d'apparitions 
 - Le code est grosiérement commenter et organiser 
+
+## TP 3 - Pokemon ## 
+
+- Le site execute un bot qui combat un pokémon le nombre de pokeball et d'objet de soins son limiter
+- Digimon > Pokemon
+
